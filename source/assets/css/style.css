@@ -1,0 +1,64 @@
+img{
+	background-color: black ;
+	height: 100px;
+	width: 200px;
+}
+
+table img{
+	height: 20px;
+	width: 20px;
+	background: transparent;
+}
+
+.past-matches{
+	background-color: #272b37;
+	color: white;
+}
+
+.past-matches .games tr:nth-child(even){
+	background-color: rgba(0, 0, 0, 2);
+}
+
+.lost{
+	color: #ff0000;
+}
+
+.won{
+	color: #24ff00;
+}
+
+.table-actions img{
+	height:20px;
+	width:20px;
+	background-color:transparent;
+}
+
+.content .galery-slider img{
+	height: auto;
+	width: 100%;
+}
+
+.content .galery-slider{
+	margin: 0 5% 0 5%;
+}
+
+.content .galery{
+	margin: 0 5% 0 5%;
+}
+.content .galery img{
+	height: 140px;
+	width:256px;
+	display: inline-block;
+}
+
+.first-rank{
+	color:#ffd639;
+}
+
+.second-rank{
+	color:#b0bdc4;
+}
+
+.third-rank{
+	color:#ff6600;
+}
